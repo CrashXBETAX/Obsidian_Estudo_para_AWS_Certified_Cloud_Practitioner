@@ -1,0 +1,1 @@
+Capital Expenditure (CAPEX) é despesa capital como investimentos em máquinas, equipamentos e outras benfeitorias nas instalações das empresas.

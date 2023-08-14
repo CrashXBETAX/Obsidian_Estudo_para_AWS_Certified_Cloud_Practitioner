@@ -1,4 +1,5 @@
-# História
+#H1
+# 📜História
 A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Amazon.com. Ela foi lançada oficialmente em 2006, mas começou a ser desenvolvida no início dos anos 2000, quando a Amazon precisou redefinir seu modelo de negócio após a bolha das pontocom. A AWS oferece mais de 200 serviços completos de datacenters em todo o mundo, para milhões de clientes de diversos setores e tamanhos. A AWS tem como objetivo reduzir os custos, aumentar a agilidade e inovar mais rapidamente com a nuvem. A AWS também é líder em segurança, funcionalidade e comunidade na nuvem.
 * **Performance**: a AWS permite executar aplicações com alta velocidade, eficiência e qualidade, aproveitando a infraestrutura global e os recursos avançados da nuvem.
 
@@ -12,7 +13,7 @@ A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Ama
 
 * **Baixo custo:** a AWS permite reduzir os custos de TI com a nuvem, pagando apenas pelo que usar e sem investir em infraestrutura própria.
 
-# Certificação
+# 📝Certificação
 
 * ## Foundational
 	* #### [[AWS Certified Cloud Practitioner]]
@@ -34,6 +35,10 @@ A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Ama
 	* #### Machine Learning
 	* #### SAP on AWS
 
+# Índice
+* #### [[Planos do AWS Support]]
+* #### [[Computação na nuvem]]
+* 
 
 
 

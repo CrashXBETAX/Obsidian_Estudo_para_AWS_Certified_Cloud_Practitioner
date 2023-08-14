@@ -1,0 +1,1 @@
+Operational Expenditure (OPEX) é despesa operacional, está relacionado aos custos com folha de pagamento, manutenção, contratação de terceiros, contas de consumo, dentre outros.
