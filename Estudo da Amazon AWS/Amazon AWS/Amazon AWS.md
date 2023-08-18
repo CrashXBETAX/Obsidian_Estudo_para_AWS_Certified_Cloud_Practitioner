@@ -40,6 +40,7 @@ A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Ama
 * #### [[Planos do AWS Support]]
 * #### [[Computação na nuvem]]
 * #### [[Infraestrutura Global AWS]]
+* #### [[Nível gratuito da AWS e a definição de preço]]
 
 
 
