@@ -1,6 +1,7 @@
 #H1
 # 📜História
 A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Amazon.com. Ela foi lançada oficialmente em 2006, mas começou a ser desenvolvida no início dos anos 2000, quando a Amazon precisou redefinir seu modelo de negócio após a bolha das pontocom. A AWS oferece mais de 200 serviços completos de datacenters em todo o mundo, para milhões de clientes de diversos setores e tamanhos. A AWS tem como objetivo reduzir os custos, aumentar a agilidade e inovar mais rapidamente com a nuvem. A AWS também é líder em segurança, funcionalidade e comunidade na nuvem.
+
 * **Performance**: a AWS permite executar aplicações com alta velocidade, eficiência e qualidade, aproveitando a infraestrutura global e os recursos avançados da nuvem.
 
 * **Disponibilidade:** a AWS garante que seus serviços globalmente estejam sempre acessíveis e funcionando, com um alto nível de confiabilidade e redundância. 
