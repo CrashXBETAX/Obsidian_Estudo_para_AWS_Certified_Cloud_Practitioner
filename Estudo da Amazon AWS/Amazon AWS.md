@@ -15,7 +15,7 @@ A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Ama
 
 # 📝Certificação
 
-* ## Foundational
+* ## 🌟 Foundational
 	* #### [[AWS Certified Cloud Practitioner]]
 
 * ## Professional

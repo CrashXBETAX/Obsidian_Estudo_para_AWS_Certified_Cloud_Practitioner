@@ -1,5 +1,5 @@
 #H2
-# Objetivos:
+# 🎯Objetivos:
 - [ ] Fazer presencialmente uma exame no final do agosto
 - [ ] Ter um certificado válido AWS Certified Cloud Practitioner
 - [x] Receber um reembolso da minha empresa para compensar o gasto
