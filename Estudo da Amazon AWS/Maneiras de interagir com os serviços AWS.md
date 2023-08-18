@@ -1,0 +1,9 @@
+⌨️ **AWS Management Console**
+
+É uma aplicação web que permite aos usuários acessar e gerenciar os diversos serviços incluídos na plataforma Amazon Web Services (AWS). Ele também oferece uma navegação fácil e um acesso centralizado a esses serviços. Com o AWS Management Console, você pode descobrir e experimentar mais de 150 serviços da AWS, muitos dos quais você pode testar gratuitamente. Você pode criar aplicações baseadas na nuvem em qualquer datacenter da AWS em todo o mundo. Você pode gerenciar e monitorar usuários, utilização de serviços, integridade e faturamento mensal. Você também pode obter ajuda do AWS Support no console.
+
+⌨️ **AWS Command Line Interface**
+É uma ferramenta que permite gerenciar os recursos da AWS diretamente a partir do terminal de comando. Com a AWS CLI, você pode executar comandos para uma ampla gama de serviços da AWS, como Amazon EC2, Amazon S3, Amazon DynamoDB e muito mais. A AWS CLI também oferece recursos avançados, como a integração com scripts, a configuração de perfis e o suporte a várias regiões. A AWS CLI é uma ferramenta poderosa e flexível que pode simplificar e automatizar muitas tarefas administrativas na nuvem.
+
+⌨️ **Kits de desenvolvimentos de software (SDKs)**
+É um conjunto de ferramentas e programas que facilitam a criação de aplicações para uma plataforma ou linguagem de programação específica. Um SDK pode incluir componentes como APIs, compiladores, depuradores, bibliotecas de código, documentações e exemplos de código. Esses componentes permitem que os desenvolvedores acessem as funcionalidades e recursos de uma determinada solução e seu ecossistema. Alguns exemplos de SDKs são o kit de desenvolvimento Java (JDK), o SDK do Windows 7, o SDK do MacOS X e o SDK do iPhone. Um SDK é como um kit de ferramentas ou um pacote de peças que vem com o móvel que você comprou para montar em casa, mas usado para o desenvolvimento de aplicações.
