@@ -1,5 +1,8 @@
-* # ⏫ Escalabilidade vertical - Aumentar poder computacional
+> [!info] 
+> * # ⏫ Escalabilidade vertical - Aumentar poder computacional 
 
-* # ⏩ Escalabilidade horizontal - Aumentar quantidade instâncias
+> [!info] 
+> * # ⏩ Escalabilidade horizontal - Aumentar quantidade instâncias 
 
-* # 🌎 Alta disponibilidade - Instâncias em diferentes zonas disponibilidade
+> [!info] 
+> * # 🌎 Alta disponibilidade - Instâncias em diferentes zonas disponibilidade 

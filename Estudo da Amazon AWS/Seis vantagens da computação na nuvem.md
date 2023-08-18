@@ -1,12 +1,18 @@
-* ## Troque para despesas variáveis (CAPEX para OPEX)
 
-* ## Tenha economia de Escala
+> [!info] 
+> 💰 Troque para despesas variáveis (CAPEX para OPEX) 
 
-* ## Pare de adivinhar a capacidade
+> [!info] 
+> 📈 Tenha economia de Escala 
 
-* ## Aumente a velocidade e a agilidade
+> [!info] 
+> ❓ Pare de adivinhar a capacidade 
 
- * ## Pare de investir em Datacenter
- 
-* ## Torne-se global em minutos
+> [!info] 
+> 🏎️ Aumente a velocidade e a agilidade 
 
+> [!info] 
+> 📉 Pare de investir em Datacenter 
+
+> [!info] 
+> 🌎 Torne-se global em minutos 

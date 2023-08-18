@@ -1,5 +1,8 @@
-* # ON-Premises - Nuvem privada
+> [!info] 
+> * # 🏭 ON-Premises - Nuvem privada 
 
-* # Hybrid - Nuvem mista
+> [!info] 
+> * # 🕛 Hybrid - Nuvem mista 
 
-* # Cloud - Nuvem pública
+> [!info] 
+> * # ☁️ Cloud - Nuvem pública 
