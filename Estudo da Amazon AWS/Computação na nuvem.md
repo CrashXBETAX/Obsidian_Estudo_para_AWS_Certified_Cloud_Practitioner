@@ -30,4 +30,3 @@ Você pode usar a AWS para solicitar e configurar os recursos necessários para 
 	*Explicando o conceito de serverless
 
 * # Serviços AWS
-* 
