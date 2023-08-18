@@ -35,10 +35,10 @@ A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Ama
 	* #### Machine Learning
 	* #### SAP on AWS
 
-# Índice
+# 📚Índice
 * #### [[Planos do AWS Support]]
 * #### [[Computação na nuvem]]
-* 
+
 
 
 
