@@ -1,2 +1,3 @@
 #h3 
 
+É um serviço de banco de dados relacional que permite criar, gerenciar e escalar bancos de dados na nuvem. O Amazon RDS oferece seis tipos de bancos de dados: MySQL, PostgreSQL, Oracle, SQL Server, MariaDB e Amazon Aurora. Com o Amazon RDS, você pode se beneficiar de vários recursos, como backup automático, restauração pontual, criptografia, monitoramento, replicação e migração. O Amazon RDS também facilita o ajuste de escala do seu banco de dados, permitindo que você altere o tamanho e o tipo da sua instância de banco de dados ou adicione armazenamento adicional sem interrupções. O Amazon RDS é ideal para aplicações que exigem alta disponibilidade, desempenho e segurança dos dados.

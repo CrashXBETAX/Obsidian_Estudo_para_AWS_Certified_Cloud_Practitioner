@@ -1,0 +1,3 @@
+#h3 
+
+O Amazon Redshift é um serviço de data warehouse em nuvem que permite armazenar e analisar grandes volumes de dados usando SQL e ferramentas de business intelligence. O Amazon Redshift usa uma arquitetura de processamento paralelo em massa (MPP) baseada na tecnologia ParAccel, que oferece alta performance e escalabilidade. Com o Amazon Redshift, você pode começar com alguns gigabytes de dados e escalar para petabytes ou mais, pagando apenas pelo que usar. O Amazon Redshift também oferece um modo serverless, que ajusta automaticamente a capacidade do data warehouse de acordo com a demanda das consultas.

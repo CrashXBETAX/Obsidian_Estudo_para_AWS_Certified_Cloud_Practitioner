@@ -1,0 +1,3 @@
+#h3 
+
+É um serviço de banco de dados NoSQL que oferece performance rápida e previsível, escalabilidade integrada e replicação multirregional automática. Ele permite que você armazene e recupere dados em forma de valor-chave e documentos JSON, com criptografia em repouso, backup e recuperação automáticos e confiabilidade garantida. O DynamoDB é ideal para aplicações que exigem alto nível de simultaneidade, baixa latência e grande volume de dados.

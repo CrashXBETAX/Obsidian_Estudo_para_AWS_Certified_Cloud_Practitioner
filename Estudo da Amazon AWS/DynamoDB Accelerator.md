@@ -1,0 +1,1 @@
+É um cache em mémoria para o DynamoDB e acelera de milissegundos para microssegundos.

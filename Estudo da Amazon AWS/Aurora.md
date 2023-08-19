@@ -1,0 +1,3 @@
+#h3 
+
+O Amazon Aurora é um serviço de banco de dados relacional gerenciado pela AWS que oferece alta performance, disponibilidade e compatibilidade com MySQL e PostgreSQL. O Amazon Aurora foi criado para a nuvem e aproveita o armazenamento distribuído e a replicação automatizada para escalar de acordo com a demanda e garantir a recuperação de desastres. O Amazon Aurora também simplifica o gerenciamento do banco de dados, pois não requer licenças, aumenta o armazenamento automaticamente e integra-se com outros serviços da AWS.
