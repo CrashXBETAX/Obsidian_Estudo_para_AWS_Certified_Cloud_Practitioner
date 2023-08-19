@@ -1,0 +1,3 @@
+#h3 
+
+É um serviço de armazenamento de arquivos na nuvem que permite criar e gerenciar sistemas de arquivos compartilhados para as suas cargas de trabalho na AWS. Com o Amazon EFS, você pode armazenar e acessar os seus arquivos de forma escalável, elástica, durável e altamente disponível. O Amazon EFS é compatível com os protocolos NFSv4 e NFSv3, o que significa que você pode integrar os seus sistemas de arquivos com as suas aplicações e ferramentas existentes. O Amazon EFS também oferece recursos avançados, como criptografia em repouso e em trânsito, controle de acesso baseado em identidade e políticas, backup automatizado e restauração pontual, e integração com outros serviços da AWS, como o Amazon S3, o Amazon FSx e o AWS Lambda.

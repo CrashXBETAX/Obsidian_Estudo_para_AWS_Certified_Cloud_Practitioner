@@ -1,0 +1,4 @@
+#h3 
+
+É um serviço que permite estabelecer **uma conexão de rede privada e dedicada** entre a **sua infraestrutura e a nuvem da AWS**, **sem passar pela internet pública**. Com o Amazon Direct Connect, você pode acessar os serviços da AWS com maior segurança, performance e confiabilidade, além de reduzir os custos de rede com tarifas de transferência de dados mais baixas. O Amazon Direct Connect está disponível em mais de 100 locais ao redor do mundo, e você pode escolher entre uma conexão hospedada por um parceiro da AWS ou uma conexão dedicada da própria AWS. Você também pode usar o AWS **Direct Connect SiteLink** para **enviar dados entre diferentes locais do Amazon Direct Connect**, criando uma rede global integrada com a AWS.
+![[Pasted image 20230819173628.png]]

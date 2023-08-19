@@ -9,4 +9,4 @@ O gateway privado virtual é o componente que permite que o tráfego protegido d
 
 Um gateway privado virtual permite estabelecer uma conexão VPN (rede virtual privada) entre a VPC e uma rede privada, como um data center local ou uma rede corporativa interna. Um gateway privado virtual permitirá o tráfego na VPC somente se ele for proveniente de uma rede aprovada.
 
-#### [[]]
+#### [[Sub-redes]]
