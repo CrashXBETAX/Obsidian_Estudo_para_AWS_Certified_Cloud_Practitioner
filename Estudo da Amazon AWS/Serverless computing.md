@@ -1,0 +1,1 @@
+🚫🖥️ Serverless da AWS é um conjunto de serviços que permitem executar aplicações sem se preocupar com a gestão de servidores, escalabilidade ou disponibilidade. Com Serverless da AWS, você paga apenas pelo que usa e pode se concentrar na lógica do seu código.

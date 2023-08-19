@@ -1,0 +1,4 @@
+#h3 
+
+É um serviço de mensagens gerenciado que **permite enviar e receber notificações** de forma fácil e confiável. Com o SNS, você pode criar tópicos para agrupar vários **assinantes interessados** em um determinado tipo de mensagem, como alertas de segurança, atualizações de status ou promoções. Você pode publicar mensagens em um tópico e o SNS se encarrega de entregar essas mensagens para todos os assinantes, que podem ser aplicativos web, dispositivos móveis, funções do AWS Lambda ou outros serviços da AWS. O SNS também oferece recursos avançados, como filtragem de mensagens, entrega ordenada e de duplicação, e integração com outros serviços da AWS, como o Amazon SQS e o Amazon EventBridge. O SNS é uma solução escalável, segura e econômica para enviar notificações para milhões de destinatários em todo o mundo.
+#### [[Aplicativos monolíticos x microsserviços]]
