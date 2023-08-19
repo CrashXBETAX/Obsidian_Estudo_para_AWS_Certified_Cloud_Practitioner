@@ -1,0 +1,6 @@
+### O que é?
+Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibilizar para implantação na AWS. Um produto pode incluir um ou mais recursos da AWS, como instâncias do EC2, volumes de armazenamento, bancos de dados, configurações de monitoramento e componentes de rede ou produtos empacotados do AWS Marketplace. Um produto pode ser uma única instância de computação executando o AWS Linux, uma aplicação web multicamada totalmente configurada em execução em seu próprio ambiente ou qualquer opção entre esses dois exemplos. Usando o AWS Service Catalog, você pode criar produtos de várias maneiras, incluindo modelos do AWS CloudFormation ou configurações do Terraform. Os modelos e configurações definem os recursos da AWS exigidos para o produto, os relacionamentos entre os recursos e os parâmetros que o usuário final pode ativar ao inicializar o produto para configurar grupos de segurança, criar pares de chaves e fazer outras personalizações.
+
+#### Lista dos produtos que caiam na exame
+- [[EC2]]
+- 
