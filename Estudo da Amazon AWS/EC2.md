@@ -17,8 +17,11 @@ O Amazon EC2 (Elastic Compute Cloud) é um serviço da Amazon Web Services (AWS)
 ### [[Os tipos de instâncias do Amazon EC2]]
 > Os tipos de instâncias do Amazon EC2 são otimizados para tarefas diferentes. Ao selecionar um tipo de instância, considere as necessidades específicas de suas cargas de trabalho e seu aplicativos.
 
+### [[Definição de preços do Amazon EC2]]
+> Oferece diversas opções de preço para diferentes casos de uso.
 
-
+### [[Escalabilidade]]
+> Envolve começar apenas com recursos de que você precisa e projetar sua arquitetura para responder automaticamente às alterações de demanda, fazendo aumentos ou reduções.
 
 
 
