@@ -1,0 +1,1 @@
+DNS (Domain Name System) é como a **lista telefônica da internet**. A resolução de DNS é o processo de conversão de um nome de domínio para um **endereço IP**.

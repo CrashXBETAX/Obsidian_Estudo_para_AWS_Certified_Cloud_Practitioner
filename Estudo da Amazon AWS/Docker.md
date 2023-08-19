@@ -1,0 +1,1 @@
+São uma maneira comum de **empacotar códigos, configurações e dependências** do aplicativo em um único objeto. Pode usar contêiners para **processos e fluxos de trabalho** nos quais há **requisitos essenciais** de segurança, confiabilidade e escalabilidade.

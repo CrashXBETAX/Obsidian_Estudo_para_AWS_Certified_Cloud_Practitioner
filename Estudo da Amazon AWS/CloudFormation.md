@@ -1,0 +1,3 @@
+#h3 
+
+É um serviço que permite criar e gerenciar recursos da AWS com modelos declarativos. Com o CloudFormation, você pode descrever a infraestrutura desejada em um arquivo de texto, e o serviço se encarrega de provisionar e configurar os recursos necessários. Isso facilita o controle de versão, a automação e a repetibilidade dos seus ambientes de nuvem. O CloudFormation também oferece recursos para monitorar o status das operações, detectar e corrigir erros, e atualizar ou excluir os recursos criados.

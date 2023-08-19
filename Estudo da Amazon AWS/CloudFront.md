@@ -1,0 +1,3 @@
+#h3 
+
+É um serviço de rede de entrega de conteúdo (**CDN**) que **acelera a distribuição de conteúdo web** estático e dinâmico, como arquivos HTML, CSS, JavaScript, imagens, vídeos e APIs. O CloudFront integra-se com outros serviços da AWS, como o Amazon S3, o Amazon EC2, o AWS Lambda e o AWS Shield, para fornecer uma solução segura, **escalável e de alto desempenho** para entregar conteúdo aos usuários finais com **baixa latência** e **alta taxa de transferência.** O CloudFront também oferece recursos avançados de **otimização de conteúdo**, como **compressão**, **cacheamento inteligente** e **manipulação de mídia na borda**.
