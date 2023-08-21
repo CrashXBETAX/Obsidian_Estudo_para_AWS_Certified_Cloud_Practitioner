@@ -43,3 +43,4 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[Budgets]]
 - [[Cost Explorer]]
 - [[Marketplace]]
+- [[CAF]]
