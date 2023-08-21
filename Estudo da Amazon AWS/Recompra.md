@@ -1,0 +1,1 @@
+Mudando uma licença tradicional para um modelo de software da AWS

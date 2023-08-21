@@ -1,0 +1,1 @@
+Reescreve e refatore para o código seja projetado e otimizado usando recursos nativos da AWS.

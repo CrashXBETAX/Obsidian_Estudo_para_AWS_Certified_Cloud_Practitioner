@@ -1,0 +1,1 @@
+Manter os aplicativos essenciais e pode inclui otimizações e refatoração

@@ -1,0 +1,1 @@
+O processo de remoção de aplicativos que não são mais ativos e necessários.
