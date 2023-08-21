@@ -1,0 +1,1 @@
+Otimização de custos é a capacidade de executar sistemas para entregar valor comercial com o menor preço.

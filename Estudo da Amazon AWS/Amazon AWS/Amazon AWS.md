@@ -44,6 +44,7 @@ A AWS é uma plataforma de serviços de computação em nuvem oferecida pela Ama
 * #### [[Gerenciamento de custos AWS]]
 * #### [[Produtos do Amazon Web]]
 * #### [[Migração para nuvem]]
+* #### [[Well-Architected Framework]]
 
 
 

@@ -1,0 +1,1 @@
+Os princípios de design para a excelência operacional na nuvem incluem executar operações como código, anotar documentação, antecipar falhas e fazer frequentemente alterações pequenas e reversíveis.

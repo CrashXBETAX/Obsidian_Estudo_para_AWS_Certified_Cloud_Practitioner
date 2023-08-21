@@ -1,0 +1,1 @@
+A eficiência de desempenho é a capacidade de usar recursos computacionais com eficiência para cumprir requisitos do sistema e manter essa eficiência à medida que a demanda muda e as tecnologias evoluem.

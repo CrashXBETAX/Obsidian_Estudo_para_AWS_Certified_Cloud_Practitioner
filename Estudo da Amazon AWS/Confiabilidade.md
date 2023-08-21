@@ -1,0 +1,1 @@
+A confiabilidade inclui procedimentos de recuperação, scaling horizontal para aumentar a disponibilidade agregada do sistema e recuperação automática de falhas.
