@@ -8,7 +8,7 @@ São um desconto de cobrança aplicado ao uso de instâncias sobre demanda em su
  💽 **Hosts dedicados**
 São servidores físicos com capacidade de instância do Amazon EC2 totalmente dedicada ao uso do cliente. De todas opções do Amazon EC2 que foram abordadas, os hosts dedicados são os mais caros.
 
- 💽 **Savings Plansy**
+ 💽 **Savings Plans*
 Permite reduzir os custos de computação ao haver o compromisso com uma quantidade consistente de uso de computação por um período de um ou três anos. Esse compromisso resulta em economias de até 72% em relação aos custos de instâncias sob demanda
 
  💽 **Instâncias spot**
