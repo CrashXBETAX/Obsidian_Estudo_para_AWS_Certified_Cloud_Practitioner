@@ -44,3 +44,8 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[Cost Explorer]]
 - [[Marketplace]]
 - [[CAF]]
+- [[MQ]]
+- [[Pipeline]]
+- [[Certificate Manager]]
+- [[Macie]]
+- [[Lightsail]]

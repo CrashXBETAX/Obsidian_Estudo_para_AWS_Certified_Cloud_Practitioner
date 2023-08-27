@@ -1,0 +1,1 @@
+Um serviço de implantação que permite automatizar o lançamento de novas versões da sua aplicação em instâncias EC2, contêineres, funções Lambda ou outros destinos.
