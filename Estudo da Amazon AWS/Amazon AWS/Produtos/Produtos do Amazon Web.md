@@ -49,3 +49,10 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[Certificate Manager]]
 - [[Macie]]
 - [[Lightsail]]
+- [[QuickSight]]
+- [[Storage Gateway]]
+- [[Athena]]
+- [[WorkSpaces]]
+- [[EventBridge]]
+- [[OpenSearch]]
+- 

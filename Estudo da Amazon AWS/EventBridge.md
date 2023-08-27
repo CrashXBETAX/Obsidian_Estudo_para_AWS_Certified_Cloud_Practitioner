@@ -1,0 +1,3 @@
+#h3 
+
+É um barramento de eventos sem servidor que torna mais fácil a criação de aplicações orientadas por eventos em escala usando eventos gerados com base em suas aplicações, aplicações integradas de software como serviço (SaaS) e serviços da AWS. Você pode configurar regras de roteamento para determinar para onde enviar seus dados para criar arquiteturas de aplicações que reagem em tempo real às suas origens de dados com o consumidor e editor de eventos completamente dissociados

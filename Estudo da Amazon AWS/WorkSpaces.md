@@ -1,0 +1,3 @@
+#h3 
+
+ É um serviço de desktop virtual na AWS que oferece ambientes de trabalho baseados em nuvem. Ele permite aos usuários acessar desktops Windows ou Linux a partir de dispositivos diversos. Com flexibilidade de configuração, escalabilidade sob demanda e segurança avançada, o WorkSpaces simplifica a gestão de desktops, proporcionando mobilidade e acesso remoto a aplicativos e dados corporativos. Isso ajuda as empresas a oferecerem ambientes de trabalho personalizados, sem a necessidade de investimentos em infraestrutura física.

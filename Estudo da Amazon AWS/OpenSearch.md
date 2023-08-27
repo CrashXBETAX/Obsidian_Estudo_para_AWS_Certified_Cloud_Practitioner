@@ -1,0 +1,3 @@
+#h3 
+
+É um conjunto distribuído, orientado à comunidade, com licença Apache 2.0 de pesquisa e análise de código 100% aberto usado para uma ampla variedade de casos de uso, como monitoramento de aplicações em tempo real, análise de logs e pesquisa de sites. O OpenSearch fornece um sistema altamente escalável para fornecer acesso rápido e resposta a grandes volumes de dados com uma ferramenta de visualização integrada. É um pacote de pesquisa e análise de código aberto distribuído derivado do Elasticsearch.
