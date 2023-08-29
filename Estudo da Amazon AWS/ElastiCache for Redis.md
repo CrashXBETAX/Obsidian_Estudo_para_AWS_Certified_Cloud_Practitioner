@@ -1,0 +1,3 @@
+#h3 
+
+É um serviço gerenciado da AWS que oferece implantação, operação e escalonamento de clusters Redis em memória. Ele é utilizado para acelerar o desempenho de aplicativos, armazenando dados frequentemente acessados em cache na memória. O ElastiCache for Redis oferece alta disponibilidade com opções de replicação, suporte a backups automáticos e gerenciamento de patches. Além disso, ele permite armazenar dados complexos com estruturas de dados específicas do Redis. O serviço é valioso para aplicativos que exigem baixa latência e alta vazão, como caches de banco de dados, sessões de usuário e análises em tempo real.

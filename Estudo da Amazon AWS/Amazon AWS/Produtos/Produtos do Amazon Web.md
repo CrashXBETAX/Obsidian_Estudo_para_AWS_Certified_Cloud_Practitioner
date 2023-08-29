@@ -55,4 +55,6 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[WorkSpaces]]
 - [[EventBridge]]
 - [[OpenSearch]]
-- 
+- [[ElastiCache for Redis]]
+- [[AppFlow]]
+- [[SES]]
