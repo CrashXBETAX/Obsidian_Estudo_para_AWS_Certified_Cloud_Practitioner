@@ -60,3 +60,4 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[SES]]
 - [[Step Functions]]
 - [[Amplify]]
+- [[Kinesis]]
