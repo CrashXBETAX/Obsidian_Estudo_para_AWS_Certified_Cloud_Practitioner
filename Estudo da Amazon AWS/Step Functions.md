@@ -1,0 +1,3 @@
+#h3 
+
+É um serviço de orquestração de fluxo de trabalho que facilita a criação e a coordenação de aplicativos distribuídos e baseados em serviços. Ele permite criar fluxos de trabalho visualmente, definindo passos individuais como funções Lambda, tarefas de ECS, atividades de data pipeline, entre outros. Esses passos são organizados em um gráfico de estado, onde você pode controlar a sequência, os desvios e as decisões. O Step Functions lida automaticamente com o estado e os retries, garantindo a resiliência dos fluxos de trabalho. Isso simplifica a criação de processos complexos, otimiza a organização e oferece uma abordagem mais gerenciável para orquestração de serviços.

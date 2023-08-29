@@ -1,2 +1,3 @@
 #h3 
 
+É um serviço da AWS que oferece uma maneira escalável e econômica de enviar e-mails. Ele permite o envio de e-mails transacionais, de marketing e outros tipos de mensagens para clientes. O SES oferece alta disponibilidade, escalabilidade automática e integração com outros serviços AWS. É possível utilizar o SES para disparar e-mails a partir de aplicativos ou sistemas, bem como criar campanhas de e-mail marketing personalizadas. Além disso, o SES oferece recursos para monitoramento de entregas e gerenciamento de reputação de IP, garantindo a capacidade de atingir a caixa de entrada dos destinatários.

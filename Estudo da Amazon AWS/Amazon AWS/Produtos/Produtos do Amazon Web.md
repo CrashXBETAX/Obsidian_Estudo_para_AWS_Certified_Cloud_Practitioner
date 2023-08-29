@@ -58,3 +58,5 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[ElastiCache for Redis]]
 - [[AppFlow]]
 - [[SES]]
+- [[Step Functions]]
+- [[Amplify]]
