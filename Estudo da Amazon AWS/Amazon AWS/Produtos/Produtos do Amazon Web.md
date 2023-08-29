@@ -61,3 +61,4 @@ Um produto é um conjunto de recursos da Nuvem AWS que você deseja disponibiliz
 - [[Step Functions]]
 - [[Amplify]]
 - [[Kinesis]]
+- [[AMI]]
