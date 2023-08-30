@@ -1,0 +1,3 @@
+#h3 
+
+O Amazon EMR (Elastic MapReduce) é uma escolha eficaz para criar e gerenciar clusters de servidores de alto desempenho para processamento paralelo. Ele utiliza frameworks como Hadoop e Spark para distribuir e processar tarefas em paralelo, permitindo análises de big data em larga escala. Ao provisionar clusters sob demanda, o EMR dimensiona automaticamente recursos de acordo com a carga de trabalho, garantindo eficiência. Isso é especialmente útil para processar e analisar grandes volumes de dados, como modelagem preditiva, análise de logs e extração de informações valiosas, aproveitando a potência do processamento distribuído.
