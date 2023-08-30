@@ -5,3 +5,4 @@ AWS Pipeline é um serviço que permite automatizar o processo de entrega contí
 - #### [[CodeCommit]]
 - #### [[CodeBuild]]
 - #### [[CodeDeploy]]
+- #### [[CodeStar]]

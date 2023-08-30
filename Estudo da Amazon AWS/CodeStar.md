@@ -1,0 +1,1 @@
+CodeStar é o serviço utilizado para gerenciar o projeto, membros e artefatos e que permite integração com o Jira.
